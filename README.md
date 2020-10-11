@@ -23,17 +23,17 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/yifeng20/FengTipCalc/blob/main/tip_calculator_demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [ezgif](https://ezgif.com/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This project is a lot of fun. The challenging part was to set up Android studio at the first place.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [yifeng20] [Yi Feng]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
